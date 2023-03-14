@@ -4,7 +4,7 @@
 		"parameters": {
 			"StorageName": {
 				"type": "string",
-				"defaultValue": "synpsep1storage"
+				"defaultValue": "datalake"
 			}
 		},
 		"annotations": [],
