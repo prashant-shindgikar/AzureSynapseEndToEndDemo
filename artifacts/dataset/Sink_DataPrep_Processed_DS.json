@@ -13,7 +13,8 @@
 		},
 		"parameters": {
 			"StorageName": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "synpsep1storage"
 			}
 		},
 		"annotations": [],
