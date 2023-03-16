@@ -4,11 +4,11 @@
 		"parameters": {
 			"DatabaseName": {
 				"type": "string",
-				"defaultValue": "healthcare"
+				"defaultValue": "sqlpool1"
 			},
 			"ServerName": {
 				"type": "string",
-				"defaultValue": "health"
+				"defaultValue": "sqlpool1"
 			}
 		},
 		"annotations": [],
