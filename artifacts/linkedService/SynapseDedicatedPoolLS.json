@@ -8,7 +8,7 @@
 			},
 			"ServerName": {
 				"type": "string",
-				"defaultValue": "synpsep1ws"
+				"defaultValue": "sqlpool1"
 			}
 		},
 		"annotations": [],
