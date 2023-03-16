@@ -27,8 +27,7 @@
 				"folderPath": {
 					"value": "@concat('fhir_ndjson/', dataset().DatasetSize)",
 					"type": "Expression"
-				},
-				"fileSystem": "synpsep1container"
+				}
 			}
 		}
 	}
